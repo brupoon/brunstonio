@@ -11,16 +11,41 @@
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
+    <script>
+      function showContacts(type) {
+        switch(type) {
+          case "github":
+            document.getElementById("show").innerHTML = '<a href="https://github.com/brupoon">@brupoon</a>';
+            break;
+          case "email":
+            document.getElementById("show").innerHTML = '<a href="mailto:brupoon@outlook.com">brupoon@outlook.com</a>';
+            break;
+          case "linkedin":
+            document.getElementById("show").innerHTML = '<a href="https://www.linkedin.com/in/brunston">linkedin</a>';
+            break;
+          case "phone":
+            document.getElementById("show").innerHTML = '530-235-6565';
+            break;
+          case "hubski":
+            document.getElementById("show").innerHTML = '<a href="https://hubski.com/user?id=demure">hubski</a>';
+            break;
+          default:
+            document.getElementById("show").innerHTML = '<br/>';
+        }
+      }
+    </script>
   </head>
   <body>
     <div class="wrapper">
       <header>
-	<img src="images/albatrossb.png" alt="balbatross" style="width:250px;height:175px;">
+	<img src="images/albatrossb.png" alt="balbatross" style="width:125px;height:42px;">
 	<break></break>
         <h1>Brunston Poon</h1>
         <p>stars, sounds, words, code.</p>
-        <h4>Links</h4>
-	      <p><a href="mailto:brupoon@outlook.comREMOVEME">email</a> ‖ <a href="https://www.linkedin.com/in/brunston">linkedin</a> ‖ <a href="https://github.com/brupoon">github</a> ‖ <a href="https://hubski.com/user?id=demure">hubski</a></p>
+        <h3>Contact & Links</h3>
+        <div id="show"><a href="mailto:brupoon@outlook.com">brupoon@outlook.com</a><br/></div><br/>
+        <a href="http://brunston.io/resume/">resume</a> ‖ <span style="color: #39c;" onclick="showContacts('github')">github</span> ‖ <span style="color: #39c;" onclick="showContacts('email')">email</span> ‖ <span style="color: #39c;" onclick="showContacts('phone')">phone</span> ‖ <a href="https://bpbp.xyz/">bpbp.xyz</a>
+
         <img src="images/brunston.jpg" alt="Brunston" style="width:250px;height:167px;">
       </header>
       <section>
@@ -32,19 +57,17 @@
 <h4>Recent Activity</h4>
 <p>I have been converting a portion of stellarPYL to allow for more user customizability.</p>
 
-<a id="projects" class="anchor" href="#projects" aria-hidden="true"><span class="octicon octicon-link"></span></a>Projects</h3>
+<h4><a id="projects" class="anchor" href="#projects" aria-hidden="true"><span class="octicon octicon-link"></span></a>Projects</h4>
 
 <p><a href="http://st.bpbp.xyz/">stellarPYL</a> - stellar spectra reduction and analysis software in python<br>
 <a href="http://pipya.bpbp.xyz/">pipya</a> - cli personal assistant with limited-natural-language interpretation in python<br>
 <a href="http://next.bpbp.xyz/">nextTwilight</a> - astronomy-related scripts in python<br>
 <a href="http://blackfork.bpbp.xyz/">blackfork</a> - evolving algorithm for playing blackjack in python<br>
 <a href="http://adveng.bpbp.xyz/">advEng</a> - work related to SPS Advanced Engineering 2014-2015 in R and python </p>
-<h4>Download stellarPYL</h4>
-<p>The most convenient place to do so would be <a href="http://st.bpbp.xyz/">GitHub</a> but you can also do so <a href="https://bpbp.xyz/files/stellarpyl.zip">here</a>. Do note that this will not be updated as frequently as GitHub and should generally not be used for linking.
 
       </section>
       <footer>
-        <p><small>Copyright (c) 2015 Brunston Poon. <a href="https://www.digitalocean.com/?refcode=2042d81bb952">GitHub</a> &mdash; <a href="https://github.com/orderedlist">theme</a></small></p>
+        <p><small>Copyright (c) 2015 Brunston Poon. </br><a href="https://pages.github.com/">GitHub Pages</a> &mdash; <a href="https://github.com/orderedlist">theme</a></small></p>
       </footer>
     </div>
     <script src="javascripts/scale.fix.js"></script>
