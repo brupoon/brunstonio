@@ -3,3 +3,5 @@ Disallow: /resume/
 Disallow: /resume/*
 Disallow: /images/
 Disallow: /images/*
+Disallow: /pledge/
+Disallow: /pledge/*
