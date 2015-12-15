@@ -5,3 +5,5 @@ Disallow: /images/
 Disallow: /images/*
 Disallow: /pledge/
 Disallow: /pledge/*
+Disallow: /slides/
+Disallow: /slides/*
