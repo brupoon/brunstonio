@@ -3,7 +3,7 @@ layout:  default
 title: "PGP"
 ---
 
-[Current PGP Key](http://brunston.io/pgp/key.txt)
+[Current PGP Key](http://brunston.io/pgp/bpkey.txt)
 
     pub  2048R/D986CB9D 2016-03-18
     
