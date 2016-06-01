@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Brunston Poon"
+markdown: kramdown
 ---
 
 ##Bio
