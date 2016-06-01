@@ -1,0 +1,4 @@
+name: Brunston Poon
+markdown: kramdown
+gems:
+  - jekyll-sitemap
