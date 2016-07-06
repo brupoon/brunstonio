@@ -8,7 +8,7 @@ Bio
 
 Hi! I'm Brunston Poon, an EECS student in the UC Berkeley College of Engineering, Class of 2020. I also am an alumnus of St. Paul's School, Form of 2016.
 
-My interests are broad; I am currently an intern with Dr. Geoff Mathews of the University of Hawaii doing low-cost stellar spectroscopy development, I have played the piano for over a decade (and made it to Carnegie Hall), and I love to write (particularly poetry). I'm also a fairly good whistler and a voracious reader. Below, you will find a list of projects I find worth highlighting. 
+My interests are broad: I am currently an intern at Lockheed Martin Space Systems Company; I was formerly an intern with Dr. Geoff Mathews of the University of Hawaii doing low-cost stellar spectroscopy development; I have played the piano for over a decade (and made it to Carnegie Hall); finally, I love to write (particularly poetry). I'm also a fairly good whistler and a voracious reader. Below, you will find a list of projects I find worth highlighting. 
 
 Additional Links
 ================
