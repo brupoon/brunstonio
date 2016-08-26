@@ -10,10 +10,11 @@ An open-source download for stellarPYL is available at [brunston/stellarpyl on G
 It is a part of the larger stellarPYL integrative stellar spectroscopy system which I designed, which includes hardware specifications for data collection as well as in-lab calibration methods. This project reduces the cost required to perform quantitative stellar spectroscopy fivefold (from ~$1500 to $300) and uses existing COTS (commercial off-the-shelf) technology.
 
 stellarPYL can do the following: 
-* automatically crop the image based on intensity parameters
-* perform automated background subtraction
-* generate an intensity plot of the spectrum while accounting for non-pixel-orthogonal spectra and diffraction grating resolution
-* account for the use of a DSLR sensor by using two images taken the same night of different stars to create a relative response function for the individual sensor and observation time.
+
+*   automatically crop the image based on intensity parameters
+*   perform automated background subtraction
+*   generate an intensity plot of the spectrum while accounting for non-pixel-orthogonal spectra and diffraction grating resolution
+*   account for the use of a DSLR sensor by using two images taken the same night of different stars to create a relative response function for the individual sensor and observation time.
 
 This project was supported by Dr. Geoff Mathews of the University of Hawaii, the Thomas Penrose Bennett Prize grants, and the St. Paul's School Engineering Honors program.
 
