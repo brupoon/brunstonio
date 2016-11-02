@@ -8,7 +8,7 @@ Bio
 
 Hi! I'm Brunston Poon, an EECS student in the UC Berkeley College of Engineering, Class of 2020. I also am an alumnus of St. Paul's School, Form of 2016.
 
-My interests are broad: I am currently an intern at Lockheed Martin Space Systems Company; I was formerly an intern with Dr. Geoff Mathews of the University of Hawaii doing low-cost stellar spectroscopy development; I have played the piano for over a decade (and made it to Carnegie Hall); finally, I love to write (particularly poetry). I'm also a fairly good whistler and a voracious reader. Below, you will find a list of projects I find worth highlighting. 
+My interests are broad: I am currently an undergraduate research apprentice at the UC Berkeley Space Sciences Laboratory;I was formerly an intern at Lockheed Martin Space Systems Company and an intern with Dr. Geoff Mathews of the University of Hawaii doing low-cost stellar spectroscopy development; I have played the piano for over a decade (and made it to Carnegie Hall); finally, I love to write (particularly poetry). I'm also a fairly good whistler and a voracious reader. Below, you will find a list of projects I find worth highlighting. 
 
 Additional Links
 ================
@@ -18,12 +18,12 @@ Additional Links
 Recent Activity
 ===============
 
-I've been putting the final touches on [stellarPYL](http://st.bpbp.xyz/).
+I am creating [Arduino-based datalogging software](https://github.com/brunston/arduinacq) for an in-house datalogger at Space Sciences Laboratory. I've also been putting the final touches on [stellarPYL](http://brunston.io/stellarpyl).
 
 Personal Projects
 =================
 
-[stellarPYL](http://st.bpbp.xyz/) - stellar spectra reduction and analysis software in python
+[stellarPYL](http://brunston.io/stellarpyl) - stellar spectra reduction and analysis software in python
 
 [newsreceipt](https://github.com/brunston/newsreceipt) - custom news and weather receipt using RPi
 
