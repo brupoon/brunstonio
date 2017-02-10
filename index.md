@@ -8,7 +8,11 @@ Bio
 
 Hi! I'm Brunston Poon, an EECS student in the UC Berkeley College of Engineering, Class of 2020. I also am an alumnus of St. Paul's School, Form of 2016.
 
-My interests are broad: I am currently an undergraduate research apprentice at the UC Berkeley Space Sciences Laboratory;I was formerly an intern at Lockheed Martin Space Systems Company and an intern with Dr. Geoff Mathews of the University of Hawaii doing low-cost stellar spectroscopy development; I have played the piano for over a decade (and made it to Carnegie Hall); finally, I love to write (particularly poetry). I'm also a fairly good whistler and a voracious reader. Below, you will find a list of projects I find worth highlighting. 
+My research and academic interests are broad, though of late I focus on the intersection of domain science with computer science, and integrated hardware/software development. At present, I am a research assistant with the Center for Time Domain Informatics at the Berkeley Institute for Data Science, focusing on the Cesium-ML project.
+
+In the fall of 2016 I was an undergraduate research apprentice at the UC Berkeley Space Sciences Laboratory; I was formerly an intern at Lockheed Martin Space Systems Company and an intern with Dr. Geoff Mathews of the University of Hawaii doing low-cost stellar spectroscopy development.
+
+Regarding my non-STEM interests, I have played the piano for over a decade. I love to write (particularly poetry). I'm also a good whistler and a voracious reader. Below, you will find a list of projects I find worth highlighting. 
 
 Additional Links
 ================
@@ -25,14 +29,15 @@ Personal Projects
 
 [stellarPYL](http://brunston.io/stellarpyl) - stellar spectra reduction and analysis software in python
 
+[arduinacq](http://github.com/brunston/arduinacq) - data acquisition and logging software package for custom arduino mega datalogger
+
 [newsreceipt](https://github.com/brunston/newsreceipt) - custom news and weather receipt using RPi
 
 [pytosms](https://github.com/brunston/pytosms) - text US-based numbers using python. Open source.
 
-[pipya](http://pipya.bpbp.xyz/) - cli personal assistant with limited-natural-language interpretation in python
+[pipya](http://github.com/brunston/pipya) - cli personal assistant with limited-natural-language interpretation in python
 
-[nextTwilight](http://next.bpbp.xyz/) - astronomy-related scripts in python
+[nextTwilight](http://github.com/brunston/nexttwilight) - astronomy-related scripts in python
 
-[blackfork](http://blackfork.bpbp.xyz/) - genetic algorithm for playing blackjack written in python
+[blackfork](http://github.com/brunston/blackfork) - genetic algorithm for playing blackjack written in python
 
-[advEng](http://adveng.bpbpy.xyz/) - work related to SPS Advanced Engineering 2014-2015 in R and python
