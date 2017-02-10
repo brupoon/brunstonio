@@ -12,7 +12,7 @@ My research and academic interests are broad, though of late I focus on the inte
 
 In the fall of 2016 I was an undergraduate research apprentice at the UC Berkeley Space Sciences Laboratory; I was formerly an intern at Lockheed Martin Space Systems Company and an intern with Dr. Geoff Mathews of the University of Hawaii doing low-cost stellar spectroscopy development.
 
-Regarding my non-STEM interests, I have played the piano for over a decade. I love to write (particularly poetry). I'm also a good whistler and a voracious reader. Below, you will find a list of projects I find worth highlighting. 
+Regarding my non-STEM interests: I have played the piano for over a decade. I love to write (particularly poetry). I'm also a good whistler and a voracious reader. Below, you will find a list of projects I find worth highlighting. 
 
 Additional Links
 ================
