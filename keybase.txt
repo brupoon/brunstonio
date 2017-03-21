@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/brunston
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://brunston.io
+  * I am brunston (https://keybase.io/brunston) on keybase.
+  * I have a public key ASCPMpOfmQAtlITcbUlCtr1YrOtSf66riPv94UC9O4yk8Ao
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01208f32939f99002d9484dc6d4942b6bd58aceb527faeab88fbfde140bd3b8ca4f00a",
+            "host": "keybase.io",
+            "kid": "01208f32939f99002d9484dc6d4942b6bd58aceb527faeab88fbfde140bd3b8ca4f00a",
+            "uid": "a1d8dba89d6bd6c84eeb4b4c2e0fa319",
+            "username": "brunston"
+        },
+        "service": {
+            "hostname": "brunston.io",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.20"
+    },
+    "ctime": 1490056760,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1490056706,
+        "hash": "e34509fdcaf7e816c2e46c989f9d9412912665f89bb470375223e83f83a766038ed7e3434c769f39faf46472d7a02eded8c16f66d8f96764f426e3109c04fdb2",
+        "seqno": 969790
+    },
+    "prev": "c071ff2c224da9f9da4288928c581841a4708f698c47210a0aa2217191f0f30a",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgjzKTn5kALZSE3G1JQra9WKzrUn+uq4j7/eFAvTuMpPAKp3BheWxvYWTFAvJ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOGYzMjkzOWY5OTAwMmQ5NDg0ZGM2ZDQ5NDJiNmJkNThhY2ViNTI3ZmFlYWI4OGZiZmRlMTQwYmQzYjhjYTRmMDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOGYzMjkzOWY5OTAwMmQ5NDg0ZGM2ZDQ5NDJiNmJkNThhY2ViNTI3ZmFlYWI4OGZiZmRlMTQwYmQzYjhjYTRmMDBhIiwidWlkIjoiYTFkOGRiYTg5ZDZiZDZjODRlZWI0YjRjMmUwZmEzMTkiLCJ1c2VybmFtZSI6ImJydW5zdG9uIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJicnVuc3Rvbi5pbyIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMjAifSwiY3RpbWUiOjE0OTAwNTY3NjAsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ5MDA1NjcwNiwiaGFzaCI6ImUzNDUwOWZkY2FmN2U4MTZjMmU0NmM5ODlmOWQ5NDEyOTEyNjY1Zjg5YmI0NzAzNzUyMjNlODNmODNhNzY2MDM4ZWQ3ZTM0MzRjNzY5ZjM5ZmFmNDY0NzJkN2EwMmVkZWQ4YzE2ZjY2ZDhmOTY3NjRmNDI2ZTMxMDljMDRmZGIyIiwic2Vxbm8iOjk2OTc5MH0sInByZXYiOiJjMDcxZmYyYzIyNGRhOWY5ZGE0Mjg4OTI4YzU4MTg0MWE0NzA4ZjY5OGM0NzIxMGEwYWEyMjE3MTkxZjBmMzBhIiwic2Vxbm8iOjYsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA1TNCdKF7soPtM5uZPS4PTFMjSBhwJaZ5gKNmhvS1u7308VRJW2z18mHCmr6WAA8NRyntnTSWe/ehppJD3yTvCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJkhiObw4X29sJNs1u7ZDgkFGlS6+P5+/qDnhHV/HV+ro3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/brunston
+
+==================================================================
