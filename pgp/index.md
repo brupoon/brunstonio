@@ -3,14 +3,8 @@ layout:  default
 title: "PGP"
 ---
 
-[Current PGP Key](http://brunston.io/pgp/bpkey.txt)
+I have switched to [Keybase.io](http://keybase.io/brunston) for encryption and identify validification.
 
-    pub  2048R/D986CB9D 2016-03-18
-    
-                        uid Brunston Poon <albatrossian@outlook.com>
-                        
-                        uid Brunston Poon (University ID) <brunston@berkeley.edu>
-                        
-                        uid Brunston Poon (Preferred Work Contact) <brupoon@outlook.com>
+PGP Fingerprint: B1D3 9E4B 5B57 1C14 50BD 41E1 D501 2542 C5E5 1224
 
-    sub  2048R/7F2D5C31 2016-03-18  
+
