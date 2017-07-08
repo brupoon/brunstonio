@@ -8,11 +8,17 @@ Bio
 
 Hi! I'm Brunston Poon, an EECS student in the UC Berkeley College of Engineering, Class of 2020. I also am an alumnus of St. Paul's School, Form of 2016.
 
-My research and academic interests are broad, though of late I focus on the intersection of domain science with computer science, and integrated hardware/software development. At present, I am a research assistant with the Center for Time Domain Informatics at the Berkeley Institute for Data Science, focusing on the Cesium-ML project.
+My research and academic interests are broad, though of late I focus on the intersection of domain science with computer science, and integrated hardware/software development. At present, I work on a number of projects.
+
+I am currently an electrical engineering intern at Lockheed Martin Space Systems Company Advanced Technology Center. There, I work on RF related software and hardware projects, as well as VR prototyping.
+
+[Fanalytical Solutions](http://fanalytical.solutions/) is a company I co-founded with my friend [Brian O'Sullivan](https://www.linkedin.com/in/bdosullivan/). FS provides data analytics and forecasting services to sports franchises to help them boost revenue, attendance, and to streamline their logistics and planning processes.
+
+I am also a research assistant with the Center for Time Domain Informatics at the Berkeley Institute for Data Science, focusing on the Cesium-ML project.
 
 In the fall of 2016 I was an undergraduate research apprentice at the UC Berkeley Space Sciences Laboratory; I was formerly an intern at Lockheed Martin Space Systems Company and an intern with Dr. Geoff Mathews of the University of Hawaii doing low-cost stellar spectroscopy development.
 
-Regarding my non-STEM interests: I have played the piano for over a decade. I love to write (particularly poetry). I'm also a good whistler and a voracious reader. Below, you will find a list of projects I find worth highlighting. 
+Regarding my non-STEM interests: I have played the piano for over a decade. I love to write (particularly poetry). I'm also a good whistler and a voracious reader. Below, you will find a list of projects I find worth highlighting. If you want to know what I look like, view my [LinkedIn](https://linkedin.com/in/brunston).
 
 Additional Links
 ================
