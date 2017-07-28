@@ -6,7 +6,9 @@ title: "Brunston Poon"
 Bio
 ===
 
-Hi! I'm Brunston Poon, an EECS student in the UC Berkeley College of Engineering, Class of 2020. I also am an alumnus of St. Paul's School, Form of 2016.
+Hi! I'm Brunston Poon, a second-year EECS student in the UC Berkeley College of Engineering, Class of 2020. I also am an alumnus of St. Paul's School, Form of 2016.
+
+<img src="images/brunston.jpg" alt="Brunston" style="width: 250px;"/>
 
 My research and academic interests are broad, though of late I focus on the intersection of domain science with computer science, and integrated hardware/software development. At present, I work on a number of projects.
 
