@@ -10,11 +10,10 @@ Hi! I'm Brunston Poon, a second-year EECS student in the UC Berkeley College of 
 
 <img src="images/brunston.jpg" alt="Brunston" style="width: 250px;"/>
 
-* Electrical Engineering and CS Intern, Lockheed Martin Advanced Technology Center
+* Avionics Intern, SpaceX
 * CTO & Co-founder, [Fanalytical Solutions](http://fanalyticalsolutions.com)
 * Vice President, [CalSTAR](https://stars.berkeley.edu) high-power rocketry @ UC Berkeley
-* Research Assistant, [cesium.ml](http://cesium-ml.org/) time-series machine learning.
-
+* For creative works, visit [The Albatrossian](http://albatrossian.xyz)
 
 Additional Links
 ================
@@ -24,18 +23,20 @@ Additional Links
 Recent Activity
 ===============
 
-I am working on jumpstarting my company, [Fanalytical Solutions](http://fanalyticalsolutions.com). I've also been putting the final touches on [stellarPYL](http://brunston.io/stellarpyl).
+I am working on jumpstarting my company, [Fanalytical Solutions](http://fanalyticalsolutions.com). I'm also taking a semester off from Berkeley to intern at SpaceX as an Avionics intern. I'm also trying to [get used to my new-to-me Fuji X100s](http://albatrossian.xyz/photos/thirtyinthirty/).
 
 Extended Bio
 ============
 
 My research and academic interests are broad, though of late I focus on the intersection of domain science with computer science, and integrated hardware/software development. At present, I work on a number of projects.
 
-I am currently an electrical engineering intern at Lockheed Martin Space Systems Company Advanced Technology Center. There, I work on RF related software and hardware projects, as well as VR prototyping.
+I am currently an avionics intern at SpaceX, in the Avionics Test Engineering group. I work on test software infrastructure and test hardware electrical engineering and development.
+
+From June to August 2017 I was an electrical engineering intern at Lockheed Martin Space Systems Company Advanced Technology Center. There, I worked on RF related software and hardware projects, as well as VR prototyping.
 
 [Fanalytical Solutions](http://fanalytical.solutions/) is a company I co-founded with my friend [Brian O'Sullivan](https://www.linkedin.com/in/bdosullivan/). FS provides data analytics and forecasting services to sports franchises to help them boost revenue, attendance, and to streamline their logistics and planning processes.
 
-I am also a research assistant with the Center for Time Domain Informatics at the Berkeley Institute for Data Science, focusing on the Cesium-ML project.
+I spent Spring 2017 as a research assistant with the Center for Time Domain Informatics at the Berkeley Institute for Data Science, focusing on the Cesium-ML project.
 
 In the fall of 2016 I was an undergraduate research apprentice at the UC Berkeley Space Sciences Laboratory; I was formerly an intern at Lockheed Martin Space Systems Company and an intern with Dr. Geoff Mathews of the University of Hawaii doing low-cost stellar spectroscopy development.
 
