@@ -6,13 +6,13 @@ title: "Brunston Poon"
 Executive Summary
 =================
 
-Hi! I'm Brunston Poon, a second-year EECS student in the UC Berkeley College of Engineering, Class of 2020. Alumnus of St. Paul's School, Form of 2016.
+Hi! I'm Brunston Poon, a third-year EECS student in the UC Berkeley College of Engineering, Class of 2020. Alumnus of St. Paul's School, Form of 2016.
 
 <img src="images/brunston.jpg" alt="Brunston" style="width: 250px;"/>
 
-* Avionics Intern, SpaceX
+* Cybersecurity Intern, Boeing Commercial Airplanes
 * CTO & Co-founder, [Fanalytical Solutions](http://fanalyticalsolutions.com)
-* Vice President, [CalSTAR](https://stars.berkeley.edu) high-power rocketry @ UC Berkeley
+* Proud member and former VP of [CalSTAR](https://stars.berkeley.edu) high-power rocketry @ UC Berkeley
 * For creative works, visit [The Albatrossian](http://albatrossian.xyz)
 
 Additional Links
@@ -23,14 +23,16 @@ Additional Links
 Recent Activity
 ===============
 
-I am working on jumpstarting my company, [Fanalytical Solutions](http://fanalyticalsolutions.com). I'm also taking a semester off from Berkeley to intern at SpaceX as an Avionics intern. I'm also trying to [get used to my new-to-me Fuji X100s](http://albatrossian.xyz/photos/thirtyinthirty/).
+Continuing to work on [Fanalytical Solutions](http://fanalyticalsolutions.com). Currently a cybersecurity intern at Boeing. Took a semester off at Berkeley to intern at SpaceX. I'm also trying to [get used to my new-to-me Fuji X100s](http://albatrossian.xyz/photos/thirtyinthirty/).
 
 Extended Bio
 ============
 
 My research and academic interests are broad, though of late I focus on the intersection of domain science with computer science, and integrated hardware/software development. At present, I work on a number of projects.
 
-I am currently an avionics intern at SpaceX, in the Avionics Test Engineering group. I work on test software infrastructure and test hardware electrical engineering and development.
+I am presently a cybersecurity intern in the BCA Cybersecurity Product Development group at Boeing.
+
+I spent January to May 2017 as an avionics intern at SpaceX, in the Avionics Test Engineering group. I worked on test software infrastructure, designing test hardware PCBs, and designing complete test systems for both Falcon 9 and Crew Dragon.
 
 From June to August 2017 I was an electrical engineering intern at Lockheed Martin Space Systems Company Advanced Technology Center. There, I worked on RF related software and hardware projects, as well as VR prototyping.
 
