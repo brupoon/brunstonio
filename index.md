@@ -13,7 +13,7 @@ Fourth-year Electrical Engineering and Computer Science student at UC Berkeley (
 * Software Engineering Intern, YouTube Gaming, **Google**, SU 2019
 * Avionics Intern, Avionics Test Engineering, **SpaceX**, SP 2018
 * Cybersecurity Intern, **Boeing** Commercial Airplanes, SU 2018
-* CTO & Co-founder, [Fanalytical Solutions](http://fanalyticalsolutions.com) (2017-2019)
+* Co-founder, [Fanalytical Solutions](http://fanalyticalsolutions.com) (2017-2019)
 * Former VP of [CalSTAR](https://stars.berkeley.edu) high-power rocketry @ UC Berkeley
 * For creative works, visit [The Albatrossian](http://albatrossian.xyz)
 * For creative code, visit [mtwshngtn](https://mtwshngtn.github.io/)
