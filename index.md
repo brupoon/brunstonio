@@ -8,15 +8,10 @@ title: "Brunston Poon"
 Brunston Poon
 =============
 
-Fourth-year Electrical Engineering and Computer Science student at UC Berkeley (College of Engineering), 2020. Alumnus of St. Paul's School, Form of 2016.
+Fourth-year Electrical Engineering and Computer Science student at UC Berkeley (College of Engineering), 2020. 
 
-* Software Engineering Intern, YouTube Gaming, **Google**, SU 2019
-* Avionics Intern, Avionics Test Engineering, **SpaceX**, SP 2018
-* Cybersecurity Intern, **Boeing** Commercial Airplanes, SU 2018
-* Co-founder, [Fanalytical Solutions](http://fanalyticalsolutions.com) (2017-2019)
-* Former VP of [CalSTAR](https://stars.berkeley.edu) high-power rocketry @ UC Berkeley
+* Incoming Software Engineering Intern, **Loft Orbital Solutions**
 * For creative works, visit [The Albatrossian](http://albatrossian.xyz)
-* For creative code, visit [mtwshngtn](https://mtwshngtn.github.io/)
 
 Additional Links
 ================
@@ -26,6 +21,15 @@ Additional Links
 Past
 =================
 
-* Software / Electrical Engineering Intern, **Lockheed Martin** SSC Advanced Technology Center, SU 2017
-* Systems Engineering Intern, **Lockheed Martin** Space Systems Company, SU 2016
+* 2019 Summer: Software Engineering Intern, YouTube Gaming, **Google**
+* 2018 Summer: Cybersecurity Intern, **Boeing** Commercial Airplanes
+* The [mtwshngtn](https://mtwshngtn.github.io/) project
+* 2018 Spring: Avionics Intern, Avionics Test Engineering, **SpaceX**
+* 2017-2019: Co-founder, [Fanalytical Solutions](http://fanalyticalsolutions.com)
+* 2017-2018: Former VP of [CalSTAR](https://stars.berkeley.edu) high-power rocketry @ UC Berkeley
+* 2017 Summer: Software / Electrical Engineering Intern, **Lockheed Martin** SSC Advanced Technology Center
+* 2016 Summer: Systems Engineering Intern, **Lockheed Martin** Space Systems Company
 * [stellarPYL](http://brunston.io/stellarpyl) - stellar spectra reduction and analysis software in python
+
+Proud alumnus of St. Paul's School, Form of 2016.
+
