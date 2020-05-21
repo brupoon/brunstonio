@@ -10,7 +10,7 @@ Brunston Poon
 
 Fourth-year Electrical Engineering and Computer Science student at UC Berkeley (College of Engineering), 2020. 
 
-* Incoming Software Engineering Intern, **Loft Orbital Solutions**
+* Software Engineering Intern, **[Loft Orbital](https://www.loftorbital.com/)**
 * For creative works, visit [The Albatrossian](http://albatrossian.xyz)
 
 Additional Links
@@ -31,5 +31,5 @@ Past
 * Systems Engineering Intern, **Lockheed Martin** Space Systems Company, 2016 SU
 * [stellarPYL](http://brunston.io/stellarpyl) - stellar spectra reduction and analysis software in python
 
-Proud alumnus of St. Paul's School, Form of 2016.
+Alumnus of St. Paul's School, Form of 2016.
 
