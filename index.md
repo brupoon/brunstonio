@@ -11,6 +11,7 @@ Brunston Poon
 Fourth-year Electrical Engineering and Computer Science student at UC Berkeley (College of Engineering), 2020. 
 
 * Software Engineering Intern, **[Loft Orbital](https://www.loftorbital.com/)**
+* Carillonneur Member, Guild of Carillonneurs in North America
 * For creative works, visit [The Albatrossian](http://albatrossian.xyz)
 
 Additional Links
