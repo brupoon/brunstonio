@@ -8,9 +8,9 @@ title: "Brunston Poon"
 Brunston Poon
 =============
 
-Fourth-year Electrical Engineering and Computer Science student at UC Berkeley (College of Engineering), 2020. 
+Software Engineer, **[Loft Orbital](https://www.loftorbital.com/)**
 
-* Software Engineer, **[Loft Orbital](https://www.loftorbital.com/)**
+* B.S. Electrical Engineering and Computer Science, UC Berkeley (2020)
 * Carillonneur Member, Guild of Carillonneurs in North America (advancement year 2020)
 * For creative works, visit [The Albatrossian](http://albatrossian.xyz)
 
@@ -34,4 +34,3 @@ Past
 * [stellarPYL](http://brunston.io/stellarpyl) - stellar spectra reduction and analysis software in python
 
 Alumnus of St. Paul's School, Form of 2016.
-
